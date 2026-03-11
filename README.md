@@ -6,6 +6,7 @@
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
   <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="Socket.io" />
   <img src="https://img.shields.io/badge/Platform-Web%20App-004D40?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Platform" />
+  <img src="https://img.shields.io/badge/Database-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
   <img src="https://img.shields.io/badge/License-All%20Rights%20Reserved-E11D48?style=for-the-badge&logo=security&logoColor=white" alt="License" />
 </p>
 
@@ -192,10 +193,10 @@ I would be happy to discuss the architecture, design decisions, or provide a pri
 
 **Opportunities for collaboration or professional roles are always welcome.**
 
-📧 Email [virajtharindu1997@gmail.com](mailto:virajtharindu1997@gmail.com)  
-💼 LinkedIn [viraj-tharindu](https://www.linkedin.com/in/viraj-tharindu/)  
-🌐 Portfolio Site [vjstyles.com](https://virajtharindu.com) 
-🐙 GitHub [VirajTharindu](https://github.com/VirajTharindu)  
+📧 **Email**: [virajtharindu1997@gmail.com](mailto:virajtharindu1997@gmail.com)  
+💼 **LinkedIn**: [viraj-tharindu](https://www.linkedin.com/in/viraj-tharindu/)  
+🌐 **Portfolio**: [vjstyles.com](https://virajtharindu.com)  
+🐙 **GitHub**: [VirajTharindu](https://github.com/VirajTharindu)  
 
 ---
 
