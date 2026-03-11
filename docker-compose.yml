@@ -1,0 +1,28 @@
+version: '3.8'
+
+services:
+  backend:
+    build: ./backend
+    container_name: ironpulse-backend
+    ports:
+      - "3000:3000"
+    volumes:
+      - ./backend/data:/app/data
+    environment:
+      - PORT=3000
+      - JWT_SECRET=${JWT_SECRET:-change-me-in-production}
+      - DATABASE_PATH=/app/data/data.sqlite
+      - CORS_ORIGIN=http://localhost:8080
+    restart: always
+
+  frontend:
+    build: ./frontend
+    container_name: ironpulse-frontend
+    ports:
+      - "8080:80"
+    environment:
+      - VITE_API_URL=http://localhost:3000
+      - VITE_WS_URL=http://localhost:3000
+    depends_on:
+      - backend
+    restart: always
