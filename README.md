@@ -112,6 +112,8 @@ During development of IronPulse the focus areas included:
 - **Folder Architecture**: Modular NestJS backend and component-driven React frontend.
 - **Database Portability**: Designing schemas that are easily translatable between SQLite and production-grade RDBMS.
 
+* Read more in the [Extended Engineering Lessons](docs/engineering_decisions.md) document.
+
 ---
 
 # 🔧 Key Design Decisions
@@ -190,10 +192,10 @@ I would be happy to discuss the architecture, design decisions, or provide a pri
 
 **Opportunities for collaboration or professional roles are always welcome.**
 
-📧 [virajtharindu1997@gmail.com](mailto:virajtharindu1997@gmail.com)  
-💼 [viraj-tharindu](https://www.linkedin.com/in/viraj-tharindu/)  
-🌐 [vjstyles.com](https://virajtharindu.com) *(Placeholder)*  
-🐙 [VirajTharindu](https://github.com/VirajTharindu)  
+📧 Email [virajtharindu1997@gmail.com](mailto:virajtharindu1997@gmail.com)  
+💼 LinkedIn [viraj-tharindu](https://www.linkedin.com/in/viraj-tharindu/)  
+🌐 Portfolio Site [vjstyles.com](https://virajtharindu.com) 
+🐙 GitHub [VirajTharindu](https://github.com/VirajTharindu)  
 
 ---
 
